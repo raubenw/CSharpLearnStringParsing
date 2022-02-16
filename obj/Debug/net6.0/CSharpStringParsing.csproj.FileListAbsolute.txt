@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\bin\Debug\net6.0\CSharpStringParsing.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\bin\Debug\net6.0\CSharpStringParsing.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\bin\Debug\net6.0\CSharpStringParsing.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\bin\Debug\net6.0\CSharpStringParsing.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\bin\Debug\net6.0\ref\CSharpStringParsing.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\bin\Debug\net6.0\CSharpStringParsing.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\obj\Debug\net6.0\CSharpStringParsing.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\obj\Debug\net6.0\CSharpStringParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\obj\Debug\net6.0\CSharpStringParsing.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\obj\Debug\net6.0\CSharpStringParsing.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\obj\Debug\net6.0\CSharpStringParsing.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\obj\Debug\net6.0\CSharpStringParsing.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\obj\Debug\net6.0\ref\CSharpStringParsing.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\obj\Debug\net6.0\CSharpStringParsing.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpStringParsing\obj\Debug\net6.0\CSharpStringParsing.genruntimeconfig.cache
